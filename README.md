@@ -3,24 +3,28 @@
 
 ---
 
-🔭 I’m currently working on : **[TypeQuest](#)**
+🔭 I’m currently working on : **[TypeQuest](#)**  
 
-🌱 I’m currently learning : **Docker**, **AWS**, and **CI/CD pipelines**
+🌱 I’m currently learning : **Docker**, **AWS**, and **CI/CD pipelines**  
 
-📫 Reach me at **vkthakur6.7.9.8@gmail.com**
+💬 Ask me about **Web Development**  
+
+📧 Reach me at: **vkthakur6.7.9.8@gmail.com**
 
 📄 Know about my experiences : [View Resume](https://drive.google.com/file/d/1JrVXiOqoSMim8BRyoTjs6crMix0dNgRE/view)
 
 ---
 
-### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-singh-bhadauriya-183809258)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/vivekbhadauriya)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/VivekSi60054011)
+### Connect with me :
+<p align="left">
+  <a href="mailto:vkthakur6.7.9.8@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/vivek-singh-bhadauriya-183809258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/VivekSi60054011"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Languages and Tools :
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,java,git,github,tailwind,docker" />
 </p>
