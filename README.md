@@ -3,7 +3,7 @@
 
 ---
 
-🔭 I’m currently working on : **[TypeQuest](#)**  
+🔭 I’m currently working on : **[TypeQuest](https://github.com/vivekbhadauriya/TypeQuest)**  
 
 🌱 I’m currently learning : **Docker**, **AWS**, and **CI/CD pipelines**  
 
