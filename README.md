@@ -33,15 +33,22 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vivekbhadauriya&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekbhadauriya&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vivekbhadauriya&show_icons=true&theme=radical&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbhadauriya&layout=compact&theme=radical&cache_seconds=1800" height="165"/>
+</p>
+
+---
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vivekbhadauriya&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekbhadauriya&theme=darkhub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vivekbhadauriya&theme=radical&margin-w=10&no-frame=true" />
 </p>
 
 ---
