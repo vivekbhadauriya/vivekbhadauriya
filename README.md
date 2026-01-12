@@ -31,35 +31,12 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img 
-    src="https://github-readme-stats-md3fj3b4c-vkthakur6798-gmailcoms-projects.vercel.app/api?username=vivekbhadauriya&show_icons=true&theme=radical&hide=prs,issues"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats-md3fj3b4c-vkthakur6798-gmailcoms-projects.vercel.app/api/top-langs/?username=vivekbhadauriya&layout=compact&theme=radical"
-    height="165"
-  />
-</p>
-
----
-
-### 🔥 Contribution Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vivekbhadauriya&theme=radical&date_format=j%20M%5B%20Y%5D" />
-</p>
-
----
-
 ### 🔥 Contribution Streak
 <p align="center">
   <img src="https://github-readme-streak-stats-six.vercel.app/?user=vivekbhadauriya&theme=radical" />
 </p>
 
----
-
 ### ☕ Dev Break (Just for Fun)
 <p align="center">
-  <img src="https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="400px" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400px" />
 </p>
